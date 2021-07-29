@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1008851652425",
+    "project_id": "kaimurservices1",
+    "storage_bucket": "kaimurservices1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008851652425:android:29eec08859a62deef11498",
+        "android_client_info": {
+          "package_name": "com.ajit.kaimurservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008851652425-9630ob90te02e3fcdea5pcmrtbomc0dc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ajit.kaimurservice",
+            "certificate_hash": "877a8269292ffc6a206ca618466afc82c5cfa831"
+          }
+        },
+        {
+          "client_id": "1008851652425-udul57krog4cgbeld1nl41bmpqpueeir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxGie5Cn4_kSoQ3R4Nm1ri_QI6ZjLvpS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008851652425-udul57krog4cgbeld1nl41bmpqpueeir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

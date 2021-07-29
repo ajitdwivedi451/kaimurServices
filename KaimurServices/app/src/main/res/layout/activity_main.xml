@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background1"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:id="@+id/mainImage"
+        android:layout_width="wrap_content"
+        android:layout_height="250dp"
+        android:src="@drawable/kaimurapplogo"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="60dp"
+        android:layout_marginLeft="10dp"/>
+
+    <Button
+        android:id="@+id/mainLoginbtn"
+        android:layout_width="362dp"
+        android:layout_height="60dp"
+        android:layout_below="@+id/mainImage"
+        android:text="Login"
+        android:textAllCaps="false"
+        android:textSize="30sp"
+        android:textColor="@color/white"
+        android:background="@drawable/buttons"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="215dp"/>
+
+    <Button
+        android:id="@+id/mainJoinNowbtn"
+        android:layout_width="362dp"
+        android:layout_height="60dp"
+        android:layout_below="@+id/mainLoginbtn"
+        android:text="Sign up"
+        android:textAllCaps="false"
+        android:textSize="30sp"
+        android:textColor="@color/white"
+        android:background="@drawable/buttons"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="10dp"/>
+
+</RelativeLayout>
